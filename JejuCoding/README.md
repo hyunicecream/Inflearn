@@ -1,7 +1,7 @@
 
 # Inflearn JejuCoding Camp
-- Python 1부
-- Python 2부
+- Python Part-1
+- Python Part-2
 ---
 - Numpy
 - Pandas
@@ -12,3 +12,5 @@
 - BeautifulSoup
 - Selector
 ---
+- Crawling test -1
+- Crawling test -2 
