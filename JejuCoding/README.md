@@ -1,7 +1,7 @@
 
 # Inflearn JejuCoding Camp
-- Python Part-1
-- Python Part-2
+- Python 1
+- Python 2
 ---
 - Numpy
 - Pandas
