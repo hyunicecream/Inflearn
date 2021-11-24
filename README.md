@@ -5,4 +5,4 @@
 ---
 - **Numpy Basic**
 ---
-- **Pandas 데이터분석**
+- **Pandas Data Analysis**
