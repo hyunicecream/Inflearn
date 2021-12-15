@@ -1,8 +1,8 @@
 # Inflearn
 📆  강의 목록 ↓↓↓
 
-- **JejuCoding Camp**
+- **JejuCoding Camp(Hojun Lee)**
 ---
-- **Numpy Basic**
+- **Numpy Basic(yjglab)**
 ---
-- **Pandas Data Analysis**
+- **Pandas Data Analysis(Minsuk Heo)**
