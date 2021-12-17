@@ -1,5 +1,5 @@
 
-# Inflearn JejuCoding Camp
+# JejuCoding Camp
 ---
 - Python 1
 - Python 2
