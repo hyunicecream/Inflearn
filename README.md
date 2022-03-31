@@ -8,3 +8,5 @@
 - **Pandas Data Analysis(Minsuk Heo)**
 ---
 - **나도코딩**
+# Etc
+- **Numpy(이수안컴퓨터연구소)**  
